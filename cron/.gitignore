@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+.env
+/generated/prisma
+dist
+articles.json
+yt-articles.json
+twitter-articles.json
+news.csv
+tweeter-news.json
+all_articles.json
